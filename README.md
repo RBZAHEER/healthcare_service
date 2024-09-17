@@ -17,13 +17,13 @@ Before starting the project, ensure you have the following installed on your mac
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RBZAHEER/healthcare_api.git
+git clone https://github.com/RBZAHEER/healthcare_service.git
 ```
 
 Change into the project directory:
 
 ```bash
-cd your-repo-name
+cd healthcare_service
 ```
 
 #### 2. Install Project Dependencies
